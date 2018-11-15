@@ -1,0 +1,1 @@
+Color of annotation: #60fffd

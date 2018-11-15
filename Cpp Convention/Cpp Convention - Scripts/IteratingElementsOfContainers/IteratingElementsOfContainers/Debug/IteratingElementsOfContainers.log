@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\phong\desktop\cpp convention\iteratingelementsofcontainers\iteratingelementsofcontainers\main.cpp(8): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  IteratingElementsOfContainers.vcxproj -> C:\Users\phong\Desktop\Cpp Convention\IteratingElementsOfContainers\Debug\IteratingElementsOfContainers.exe

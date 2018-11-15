@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\phong\desktop\cpp convention\iteratordeclaration\iteratordeclaration\main.cpp(6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  IteratorDeclaration.vcxproj -> C:\Users\phong\Desktop\Cpp Convention\IteratorDeclaration\Debug\IteratorDeclaration.exe

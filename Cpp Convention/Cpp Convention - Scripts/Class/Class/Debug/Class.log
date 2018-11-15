@@ -1,0 +1,5 @@
+﻿  ExampleClassType.cpp
+  main.cpp
+c:\users\phong\desktop\cpp convention\class\class\main.cpp(8): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+  Class.vcxproj -> C:\Users\phong\Desktop\Cpp Convention\Class\Debug\Class.exe
