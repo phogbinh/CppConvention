@@ -8,7 +8,7 @@ The documents were first created in November, 2018; and uploaded to GitHub on No
 [UpdateLog](https://github.com/phogbinh/CppConvention/blob/master/UpdateLog.md)
 ## Pull Request Rule
 * Merge the pull request
-* Update the file [README.md](https://github.com/phogbinh/CppConvention/blob/master/README.md) in accordance to [CPPConvention > README.txt](https://github.com/phogbinh/CppConvention/blob/master/Cpp%20Convention/README.txt) (Do remember to add merge date)
+* Modify [UpdateLog](https://github.com/phogbinh/CppConvention/blob/master/UpdateLog.md) in accordance to [CPPConvention > README.txt](https://github.com/phogbinh/CppConvention/blob/master/Cpp%20Convention/README.txt) (Do remember to add merge date)
 ## Update Rule
 * Update changes to the update log file [CPPConvention > README.txt](https://github.com/phogbinh/CppConvention/blob/master/Cpp%20Convention/README.txt)
 * Upload the updated project as a branch of the name 'Update xx.xx'
