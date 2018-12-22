@@ -1,7 +1,7 @@
 # Author
 TRAN PHONG BINH (Bill)
 # Statement of Purpose
-This is the update log for the project 'CppConvention'
+This is the update log for the project 'CppConvention'.
 # Update 1.1
 Update 1.1 was uploaded as a branch on November 15th, 2018; and was merged to the master branch in December 22th, 2018.
 ## Update Log
