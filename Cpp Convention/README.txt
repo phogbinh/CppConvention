@@ -1,5 +1,5 @@
 Author: TRAN PHONG BINH (Bill)
-Statement of Purpose: This is the update log of the current version.
+Statement of Purpose: This is the update log of the current version, which is used to keep track the updates of the project.
 
 Cpp Convention - Update 1.1 (uploaded as a branch on November 15th, 2018)
 [Update Log]
