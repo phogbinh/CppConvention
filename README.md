@@ -20,7 +20,7 @@ Update 1.1 was uploaded as a branch on November 15th, 2018; and was merged to th
 * Merge the pull request
 * Update the file [README.md](https://github.com/phogbinh/CppConvention/blob/master/README.md) in accordance to [CPPConvention > README.txt](https://github.com/phogbinh/CppConvention/blob/master/Cpp%20Convention/README.txt) (Do remember to add merge date)
 ## Update Rule
-* Update changes to the update log file CppConvention > README.txt
+* Update changes to the update log file [CPPConvention > README.txt](https://github.com/phogbinh/CppConvention/blob/master/Cpp%20Convention/README.txt)
 * Upload the updated project as a branch of the name 'Update xx.xx'
 * Set a pull request
 * Book a date in CALENDAR for pull request
