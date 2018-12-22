@@ -7,7 +7,7 @@ This is my C++ Coding Rubric. Generally, it is a summarize of the course 物件�
 The documents were first created in November, 2018; and uploaded to GitHub on November 15th, 2018.\
 [UpdateLog](https://github.com/phogbinh/CppConvention/blob/master/UpdateLog.md)
 ## Update Instruction
-The repository will be updated whenever the 'Cpp Convention' is updated in ONEDRIVE as follow:
+The repository will be updated whenever there is an update of 'Cpp Convention' in ONEDRIVE. The steps for update are as follow:
 * Merge the most recent pull request to the master branch
 * Delete the pull request branch
 * Modify [UpdateLog](https://github.com/phogbinh/CppConvention/blob/master/UpdateLog.md) in accordance to CPPConvention > NewestVersionUpdateLog.txt
