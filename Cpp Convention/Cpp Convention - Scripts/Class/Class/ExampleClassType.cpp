@@ -14,7 +14,7 @@ ExampleClassType::~ExampleClassType()
     /* Body intentionally empty */
 }
 
-ExampleClassType::ExampleClassType() : ExampleClassType(vector<int> {})
+ExampleClassType::ExampleClassType() : ExampleClassType(vector<int>())
 {
     /* Body intentionally empty */
 }
@@ -114,4 +114,16 @@ ostream& operator<<(ostream& outputStream, const ExampleClassType& object)
 
     outputStream << endl;
     return (outputStream);
+}
+
+const int ExampleClassType::CalculateTotalValue() const
+{
+    int totalValue = 0;
+
+    for (auto element : _data)
+    {
+        totalValue += element;
+    }
+
+    return (totalValue);
 }

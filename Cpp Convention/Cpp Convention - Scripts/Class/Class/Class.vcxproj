@@ -19,9 +19,11 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="DerivedExampleClassType.h" />
     <ClInclude Include="ExampleClassType.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="DerivedExampleClassType.cpp" />
     <ClCompile Include="ExampleClassType.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
