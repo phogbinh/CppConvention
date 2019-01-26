@@ -11,5 +11,5 @@ The repository will be updated whenever there is an update for 'Cpp Convention' 
 * Merge the most recent pull request to the master branch
 * Delete the pull request branch
 * Modify [UpdateLog](https://github.com/phogbinh/CppConvention/blob/master/UpdateLog.md) in accordance to CPPConvention > NewestVersionUpdateLog.txt
-* Upload the newest version in ONEDRIVE as a branch of the name 'Update xx.xx'
+* Upload the newest version of this project from ONEDRIVE as a branch of the name 'Update xx.xx'
 * Make a pull request
