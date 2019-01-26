@@ -10,6 +10,6 @@ The documents were first created in November, 2018; and uploaded to GitHub on No
 The repository will be updated whenever there is an update for 'Cpp Convention' in my ONEDRIVE. The upgrading steps are as follow:
 * Merge the most recent pull request to the master branch
 * Delete the pull request branch
-* Modify [UpdateLog](https://github.com/phogbinh/CppConvention/blob/master/UpdateLog.md) in accordance to CPPConvention > NewestVersionUpdateLog.txt
+* Modify [UpdateLog](https://github.com/phogbinh/CppConvention/blob/master/UpdateLog.md) in accordance to the file CPPConvention > NewestVersionUpdateLog.txt of the project
 * Upload the newest version of this project from ONEDRIVE as a branch of the name 'Update xx.xx'
 * Make a pull request
