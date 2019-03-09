@@ -1,0 +1,24 @@
+Newest Version Update Log
+
+Author: TRAN PHONG BINH (Bill)
+Statement of Purpose: This document serves as the update log of the newest version of 'Cpp Convention' (in comparison to the one stored on GitHub repository).
+
+Cpp Convention - Update 1.2 (uploaded as a branch on December 23th, 2018)
+[Update Log]
+
+Origin
+Notebook from November 22th, 2018 to December 11th, 2018
+
+Modified
+_Cpp Convention - Documents
+_Cpp Convention - Images > ExampleClassTypeDotCPP.psd
+_Cpp Convention - Images > ExampleClassTypeDotH.psd
+_Cpp Convention - Images > README.txt
+_Cpp Convention - Scripts > Class
+_README.txt
+
+Created
+_NewestVersionUpdateLog.txt
+_Cpp Convention - Images > DerivedExampleClassTypeDotCPP.psd
+_Cpp Convention - Images > DerivedExampleClassTypeDotH.psd
+_Cpp Convention - Images > DowncastingWithPointerType.psb

@@ -7,7 +7,7 @@ of this type is data. The value is input and output as natural number. */
 class ExampleClassType
 {
     public:
-        ~ExampleClassType();
+        virtual ~ExampleClassType();
         //Destructor comment
 
         ExampleClassType();
@@ -39,6 +39,9 @@ class ExampleClassType
 
         friend ostream& operator<<(ostream& outputStream, const ExampleClassType& object);
         //Operator overloading function of the insertion operator comment
+
+        virtual const int CalculateTotalValue() const;
+        //Base class virtual member function comment
 
     private:
         vector<int> _data;
